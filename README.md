@@ -1,7 +1,7 @@
 Chrome LiveJournal ToS Hider
 ============================
 
-LiveJournal recently changed their Terms of Service. Many people find the new Terms of Service unacceptable and are unwilling to accept them. Some people even find the new Terms of Service so unacceptable that not only are they unwilling to accept them, they want to go further and delete their LiveJournal accounts.
+LiveJournal recently changed their Terms of Service. Many people are unwilling to accept the new Terms of Service. Some people even find them so unacceptable that they want to delete their LiveJournal accounts.
 
 The only way to delete one's LiveJournal account is via the [Account Status page](http://www.livejournal.com/accountstatus/). Unfortunately, it's impossible to access that page without accepting the new Terms of Service, since the "NEW USER AGREEMENT" pop-up appears on every page of the LiveJournal site, preventing the user from accessing the page until they have accepted the new agreement.
 
