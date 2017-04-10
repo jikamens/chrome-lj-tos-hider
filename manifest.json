@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "LiveJournal ToS Hider",
+  "version": "0.1.0",
+  "description": "Prevent LiveJournal from popping up ToS window on accountstatus page",
+ 
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["http://*.livejournal.com/accountstatus/*"]
+  }]
+ 
+}
